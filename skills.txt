@@ -1,0 +1,8 @@
+Testing Theory, SDLC, STLC
+Clien-server
+HTTP-methods
+JSON, XML. Structure
+API Postman (JS, autotest API)
+Charles and Fiddler
+Python
+
